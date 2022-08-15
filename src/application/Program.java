@@ -20,7 +20,7 @@ public class Program {
 		System.out.print("Informe o número de contribuintes: ");
 		int N = tec.nextInt();
 		
-		// Esse for recebe a entrada dos dados 
+		// Esse for recebe a entrada dos dados  
 		for(int i = 1; i <= N; i++) {
 			System.out.println();
 			System.out.println("Dados do contribuinte nº" + i +":");
